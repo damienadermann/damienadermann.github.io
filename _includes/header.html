@@ -14,6 +14,18 @@
       </a>
 
       <div class="trigger">
+        {% if site.github_username %}
+          {% include icon-github.html username=site.github_username %}
+        {% endif %}
+
+        {% if site.twitter_username %}
+          {% include icon-twitter.html username=site.twitter_username %}
+        {% endif %}
+
+        {% if site.linkedin_username %}
+          {% include icon-linkedin.html username=site.linkedin_username %}
+        {% endif %}
+
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>

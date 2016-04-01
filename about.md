@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a Husband, Software engineer, Surfer and Jesus freak from the Northern Beaches Sydney.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+After my morning surf I spend most of my days working with the awesome team at [Found Careers](http://www.found.careers/). A have a beautiful wife and an ugly dog.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I want to use my coding skills to help people. I love learning new programming technologies and building products and I especially want to build things that will further the kingdom.
+
+I'm always looking to meet like-minded people so get in touch on twitter or linkedin.

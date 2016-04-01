@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 1px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -40,6 +40,10 @@
         &:not(:last-child) {
             margin-right: 20px;
         }
+    }
+
+    .icon {
+      padding-right: 10px;
     }
 
     @include media-query($on-palm) {
@@ -80,7 +84,7 @@
             padding-bottom: 5px;
         }
 
-        .page-link {
+        .page-link, .icon {
             display: block;
             padding: 5px 10px;
 
@@ -98,7 +102,6 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 

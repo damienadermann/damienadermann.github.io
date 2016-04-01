@@ -17,4 +17,6 @@ github_username:  damienadermann
 linkedin_username: damien-adermann-a87b194a
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks"]

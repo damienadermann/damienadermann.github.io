@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Damien Adermann, Software Engineer from the Northern Beaches Sydney
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://damienadermann.com" # the base hostname & protocol for your site
+permalink: /blog/:title/
 twitter_username: damienadermann
 github_username:  damienadermann
 linkedin_username: damien-adermann-a87b194a
